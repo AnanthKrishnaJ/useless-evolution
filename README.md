@@ -516,18 +516,21 @@ The interface provides:
 ## Screenshot 1 — Main Simulation World
 
 ![Simulation World](Add screenshot 1 here)
+https://drive.google.com/file/d/1dlncdihrYa0qzuIeBeiCLXrYpN7i7M_f/view?usp=sharing
 
 The main simulation world showing the environment and virtual creatures.
 
 ## Screenshot 2 — Creature Inspection
 
 ![Creature Inspection](Add screenshot 2 here)
+https://drive.google.com/file/d/1PVnY2BtUbI4cRYq5xBhjyBhVpUHPBxU6/view?usp=sharing
 
 The creature inspection interface showing information and characteristics of a selected creature.
 
 ## Screenshot 3 — Evolution Simulation
 
 ![Evolution Simulation](Add screenshot 3 here)
+https://drive.google.com/file/d/1SdGp_V2GDkwpnYngzhB1wCnfD09DBZrr/view?usp=sharing
 
 The simulation running across generations and showing changes in the creature population.
 
@@ -548,6 +551,7 @@ The diagram shows the relationship between creatures, genetics, reproduction, mu
 # Video
 
 [Add your demo video link here]
+https://drive.google.com/file/d/1R5G9RwRiT8znRvPFKruaKs61bBCeV-tN/view?usp=sharing
 
 The demo video will demonstrate the Useless Evolution Simulator, including the simulation world, creature behaviour, simulation controls, genetics, reproduction, mutation, and evolution across generations.
 
