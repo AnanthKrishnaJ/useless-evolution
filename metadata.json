@@ -1,0 +1,6 @@
+{
+  "name": "The Useless Evolution Simulator",
+  "description": "An artificial life simulation where creatures evolve useless traits like dancing and hating rocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
